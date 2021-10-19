@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/logo.css");
+@import url("components/card.css");
+@import url("components/room-image.css");
+@import url("components/headings.css");
+
+ body{
+  font-family: Raleway;
+  font-size: 16px;
+ }
+
+ h1, h3{
+  font-family: Raleway;
+  font-size: 18px;
+}
+
+h2{
+  font-family: Raleway;
+  font-size: 18px;
+}
+
+a{
+  text-decoration: none;
+}
