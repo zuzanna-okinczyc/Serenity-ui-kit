@@ -1,4 +1,8 @@
-.card
+.card {
+  width: 250px;
+  height: 500px;
+}
+  
 
 .grid {
   width: 40px;
